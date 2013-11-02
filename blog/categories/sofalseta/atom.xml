@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: その他 | MOCHI LOG]]></title>
+  <link href="http://www.mochi-log.jp//blog/categories/sofalseta/atom.xml" rel="self"/>
+  <link href="http://www.mochi-log.jp//"/>
+  <updated>2013-11-02T16:45:44+09:00</updated>
+  <id>http://www.mochi-log.jp//</id>
+  <author>
+    <name><![CDATA[mochixp]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[サイトをリニューアル]]></title>
+    <link href="http://www.mochi-log.jp//blog/2013/11/02/octopress/"/>
+    <updated>2013-11-02T16:18:00+09:00</updated>
+    <id>http://www.mochi-log.jp//blog/2013/11/02/octopress</id>
+    <content type="html"><![CDATA[<p>サイトをリニューアルしました。</p>
+
+<p>今まではMovableTypeでしたが、はやりのGitHub+Octopressに変更しました。</p>
+
+<p>Octopressなかなか良いです。</p>
+
+<p>良いと思ったところ</p>
+
+<ul>
+  <li>ローカルでプレビューできる</li>
+  <li>簡単にブログを作れる</li>
+  <li>ブログの記事以外のページも作れる</li>
+  <li>Markdownで書ける</li>
+  <li>カスタマイズが容易</li>
+</ul>
+
+<p>環境構築は<a href="http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/">こちら</a>の記事を参考させていただきました。</p>
+
+<p>Windowsに環境を構築したので少し手こずりました。</p>
+]]></content>
+  </entry>
+  
+</feed>
